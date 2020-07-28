@@ -1,0 +1,1 @@
+print("there are 15 web scraping files, each prints numbers up to about 786 and then writes to a csv")
