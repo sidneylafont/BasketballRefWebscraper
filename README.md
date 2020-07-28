@@ -5,8 +5,9 @@ season and playoff) from https://www.basketball-reference.com/ for all current
 NBA players. I provided an example of all the csvs for all the stats (from June
 2020) in /webscrapers/csvs-example(6:2020).
 
-I also provided the scripts to load the data into a sqlite database with a
-normalized schema in the dataLoading folder.
+I also provided the script (dataLoadingSQLite.py) to load the data into a
+sqlite database with a normalized schema (SQLiteSchema.sql) in the
+dataLoading folder.
 
 
 To get all the updated csvs with up to date stats for all current NBA players:
